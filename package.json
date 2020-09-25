@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/rfoel/semantic-releasinho/issues"
   },
-  "homepage": "https://github.com/rfoel/semantic-releasinho#readme"
+  "homepage": "https://github.com/rfoel/semantic-releasinho#readme",
+  "devDependencies": {
+    "@semantic-release/git": "^9.0.0",
+    "semantic-release": "^17.1.2"
+  }
 }
